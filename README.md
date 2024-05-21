@@ -125,9 +125,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kanishk-byte">
+<!--   <a href="https://github.com/Kanishk-byte">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanishk-byte&theme=radical" alt="Kanishk's GitHub Contribution"/>
-  </a>
+  </a> -->
 </p>
 
 <a> 
