@@ -41,7 +41,7 @@
 <!-- About Section -->
  # About me
 <p>
- <img align="right" width="200" src="code5.gif" alt="Coding gif" />
+ <img align="right" width="180" src="code5.gif" alt="Coding gif" />
 
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
