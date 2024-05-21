@@ -41,8 +41,7 @@
 <!-- About Section -->
  # About me
 <p>
-  ![code5](https://github.com/Kanishk-byte/Kanishk-byte/assets/113183069/44195d35-9bba-4554-8d2f-16e9170eba77)
- <!-- <img align="right" width="350" src="" alt="Coding gif" /> -->
+ <img align="right" width="300" src="code2.gif" alt="Coding gif" />
 
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
