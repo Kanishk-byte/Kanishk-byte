@@ -8,16 +8,13 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="#">Kanishk Khandelwal</a></b>
+        <samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt; Hey There!, I am
+                <b><a target="_blank" href="#">Kanishk Khandelwal</a>&gt;</b>
         </samp>
 </h3>
 
-
 <p align="center"> 
   <samp>
-<!--     <a href="https://www.google.com/search?q=">「 Google Me 」</a> -->
-    <br>
     「 I am a full stack web application developer from <b>India</b> ]
     <br>
   </samp>
