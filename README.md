@@ -1,16 +1,6 @@
-<!--
 <h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Kanishk Khandelwal's World!
 </h2>
--->
-
-<!--
-<p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
 
 <a href="https://komarev.com/ghpvc/?username=Kanishk-byte">
   <img align="right" src="https://komarev.com/ghpvc/?username=Kanishk-byte&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
@@ -30,7 +20,6 @@
     <br>
     「 I am a full stack web application developer from <b>India</b> ]
     <br>
-    <br>
   </samp>
 </p>
 
@@ -38,27 +27,23 @@
  <a href="#" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Kanishk" />
  </a>
+  
  <a href="https://www.linkedin.com/in/kanishk-khandelwal-646b71225/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kanishk"/>
  </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Kanishk" />
- </a> -->
+  
  <a href="https://x.com/Kanishk_x7x" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
+  
  <a href="https://www.instagram.com/kanishkyouknow/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Kanishk" />
  </a> 
-<!--  <a href="https://facebook.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a>  -->
 </p>
 <br />
 
 <!-- About Section -->
  # About me
- 
 <p>
   
  <img align="right" width="350" src="signin-banner.png" alt="Coding gif" /> 
@@ -70,8 +55,6 @@
 
 </p>
 
-<br/>
-<br/>
 <br/>
 
 ## Use To Code
@@ -103,28 +86,16 @@
   <a href="https://github.com/Kanishk-byte?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-<br/>
 <hr/>
-<br/>
 
 <p align="center">
   <a href="https://github.com/Kanishk-byte">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanishk-byte&theme=radical&border=7F3FBF&background=0D1117" alt="Kanishk's GitHub streak"/>
   </a>
-  
-  <a> 
+  <a align = "center"> 
     <a href="https://github.com/Kanishk-byte"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kanishk-byte&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  
-  <a href="https://github.com/Kanishk-byte"><img alt="Kanishk Khandelwal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kanishk-byte&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-  
+    <a href="https://github.com/Kanishk-byte"><img alt="Kanishk Khandelwal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kanishk-byte&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+</a> 
 </p>
 
-<!--
-<p align="center">
-   <a href="https://github.com/Kanishk-byte">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanishk-byte&theme=radical" alt="Kanishk's GitHub Contribution"/>
-  </a>
-</p>
- -->
+<hr/>
