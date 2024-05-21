@@ -41,8 +41,8 @@
 <!-- About Section -->
  # About me
 <p>
-  
- <!-- <img align="right" width="350" src="sign in-banner.png" alt="Coding gif" /> -->
+  ![code5](https://github.com/Kanishk-byte/Kanishk-byte/assets/113183069/44195d35-9bba-4554-8d2f-16e9170eba77)
+ <!-- <img align="right" width="350" src="" alt="Coding gif" /> -->
 
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
