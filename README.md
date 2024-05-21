@@ -63,8 +63,10 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
+<!--  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
+  ![signin-banner](https://github.com/Kanishk-byte/Kanishk-byte/assets/113183069/3452b1fa-759b-454a-b9dc-1ff1130b8c57)
+
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
