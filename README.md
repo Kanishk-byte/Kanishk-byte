@@ -1,5 +1,5 @@
 
- <img align="center" width="1200" height="550" src="code3.gif" alt="Coding gif" />
+ <img align="center" width="1200" height="400" src="code3.gif" alt="Coding gif" />
 
 <!--
 <h2 align="center">
