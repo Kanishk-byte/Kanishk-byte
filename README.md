@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Kanishk" />
  </a> 
 </p>
-<br />
 
 <!-- About Section -->
  # About me
@@ -51,8 +50,6 @@
  💬 &emsp; Contact Me [+91-8875549179](8875549179)
 
 </p>
-
-<br/>
 
 ## Use To Code
 
