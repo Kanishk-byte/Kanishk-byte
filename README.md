@@ -43,7 +43,7 @@
  # About me
 <p>
   
- <img align="right" width="350" src="signin-banner.png" alt="Coding gif" /> 
+ <!-- <img align="right" width="350" src="sign in-banner.png" alt="Coding gif" /> -->
 
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
