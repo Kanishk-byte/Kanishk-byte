@@ -1,6 +1,11 @@
+
+ <img align="center" width="1200" src="code3.gif" alt="Coding gif" />
+
+<!--
 <h2 align="center">
   Welcome to Kanishk Khandelwal's World!
 </h2>
+-->
 
 <a href="https://komarev.com/ghpvc/?username=Kanishk-byte">
   <img align="right" src="https://komarev.com/ghpvc/?username=Kanishk-byte&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
