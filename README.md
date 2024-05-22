@@ -14,7 +14,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt; Hey There!, I am
-                <b><a target="_blank" href="#">Kanishk Khandelwal</a>&gt;</b>
+                <b><a target="_blank" href="#">Kanishk Khandelwal</a>&nbsp; &gt;</b>
         </samp>
 </h3>
 
