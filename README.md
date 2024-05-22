@@ -22,7 +22,7 @@
 
 <p align="center"> 
   <samp>
-    [ I am a full stack web application developer from <b>India</b> ]
+    [ I am a full stack Web Application Developer from <b>INDIA</b> ]
     <br>
   </samp>
 </p>
@@ -52,10 +52,10 @@
 <p>
  <img align="right" width="180" src="code5.gif" alt="Coding gif" />
 
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime : khandelwalkanishk07@gmail.com<br/><br/>
- 💬 &emsp; Contact Me [+91-8875549179](8875549179)
+ 🔭 &emsp; Currently, I am actively engaging in the development of my <b>Coding Skills.</b> <br/><br/>
+ ❤️ &emsp; Love to <b>Writing Code</b> & <b>Learning New Features.</b><br/><br/>
+ 📧 &emsp; Reach me anytime : <b>khandelwalkanishk07@gmail.com</b><br/><br/>
+ 💬 &emsp; Contact Me : <b>[+91-8875549179](8875549179)</b>
 
 </p>
 
@@ -85,7 +85,7 @@
 <br/>
 
 <p align="left">
-  <a href="https://github.com/Kanishk-byte?tab=repositories" target="_blank"><img alt="Repositories : Click Here To See All" title="Repositories : Click Here To See All" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/Kanishk-byte?tab=repositories" target="_blank"><img alt="Repositories" title="Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <hr/>
