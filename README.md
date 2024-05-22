@@ -85,7 +85,7 @@
 <br/>
 
 <p align="left">
-  <a href="https://github.com/Kanishk-byte?tab=repositories" target="_blank"><img alt="All Repositories" title="Repositories : Click Here To See All" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/Kanishk-byte?tab=repositories" target="_blank"><img alt="Repositories : Click Here To See All" title="Repositories : Click Here To See All" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <hr/>
