@@ -1,6 +1,8 @@
 
  <img align="center" width="1200" height="400" src="code3.gif" alt="Coding gif" />
 
+ <hr/>
+
 <!--
 <h2 align="center">
   Welcome to Kanishk Khandelwal's World!
@@ -14,13 +16,13 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt; Hey There!, I am
-                <b><a target="_blank" href="#">Kanishk Khandelwal</a>&nbsp; &gt;</b>
+                <b><a target="_blank" href="#">Kanishk Khandelwal</a>&nbsp;&gt;</b>
         </samp>
 </h3>
 
 <p align="center"> 
   <samp>
-    「 I am a full stack web application developer from <b>India</b> ]
+    [ I am a full stack web application developer from <b>India</b> ]
     <br>
   </samp>
 </p>
@@ -42,6 +44,8 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Kanishk" />
  </a> 
 </p>
+
+<hr/>
 
 <!-- About Section -->
  # About me
